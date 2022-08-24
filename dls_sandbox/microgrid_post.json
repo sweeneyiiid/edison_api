@@ -1,0 +1,212 @@
+[
+  {
+    "averageAnnualSolarInsolation": 0,
+    "baseLoadKw": 0,
+    "capacityKw": 0,
+    "cityName": "string",
+    "coordinates": "string",
+    "events": [
+      {
+        "extKey": "string",
+        "textDescription": "string",
+        "textEventType": "Warranty"
+      }
+    ],
+    "extKey": "1234567890",
+    "installationDate": "2020-07-09T13:07:49.646Z",
+    "managers": [
+      {
+        "cdAreaCode": 0,
+        "extKey": "string",
+        "nameCity": "string",
+        "nameFirst": "string",
+        "nameLast": "string",
+        "nameVillage": "string",
+        "partyType": "Managers",
+        "textAddress": "string",
+        "textEmail": "string",
+        "textPhoneNumber": "string",
+        "nameProvince": "Copperbelt",
+        "textGender": "M"
+      }
+    ],
+    "microgridHourlys": [
+      {
+        "extKey": "string0",
+        "nbrAvgWh": 0,
+        "nbrHour": 0,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string1",
+        "nbrAvgWh": 0,
+        "nbrHour": 1,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string2",
+        "nbrAvgWh": 0,
+        "nbrHour": 2,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string3",
+        "nbrAvgWh": 0,
+        "nbrHour": 3,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string4",
+        "nbrAvgWh": 0,
+        "nbrHour": 4,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string5",
+        "nbrAvgWh": 0,
+        "nbrHour": 5,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string6",
+        "nbrAvgWh": 0,
+        "nbrHour": 6,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string7",
+        "nbrAvgWh": 0,
+        "nbrHour": 7,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string8",
+        "nbrAvgWh": 0,
+        "nbrHour": 8,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string9",
+        "nbrAvgWh": 0,
+        "nbrHour": 9,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string10",
+        "nbrAvgWh": 0,
+        "nbrHour": 10,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string11",
+        "nbrAvgWh": 0,
+        "nbrHour": 11,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string12",
+        "nbrAvgWh": 0,
+        "nbrHour": 12,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string13",
+        "nbrAvgWh": 0,
+        "nbrHour": 13,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string14",
+        "nbrAvgWh": 0,
+        "nbrHour": 14,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string15",
+        "nbrAvgWh": 0,
+        "nbrHour": 15,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string16",
+        "nbrAvgWh": 0,
+        "nbrHour": 16,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string17",
+        "nbrAvgWh": 0,
+        "nbrHour": 17,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string18",
+        "nbrAvgWh": 0,
+        "nbrHour": 18,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string19",
+        "nbrAvgWh": 0,
+        "nbrHour": 19,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string20",
+        "nbrAvgWh": 0,
+        "nbrHour": 20,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string21",
+        "nbrAvgWh": 0,
+        "nbrHour": 21,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string22",
+        "nbrAvgWh": 0,
+        "nbrHour": 22,
+        "nbrPeakWh": 0
+      },
+      {
+        "extKey": "string23",
+        "nbrAvgWh": 0,
+        "nbrHour": 23,
+        "nbrPeakWh": 0
+      }
+      
+    ],
+    "rco": {
+      "cdAreaCode": 0,
+      "extKey": "string",
+      "nameCity": "string",
+      "nameFirst": "string",
+      "nameLast": "string",
+      "nameVillage": "string",
+      "partyType": "RCO",
+      "textAddress": "string",
+      "textEmail": "string",
+      "textPhoneNumber": "string",
+      "nameProvince": "Copperbelt",
+      "textGender": "M"
+    },
+    "rto": {
+      "cdAreaCode": 0,
+      "extKey": "string",
+      "nameCity": "string",
+      "nameFirst": "string",
+      "nameLast": "string",
+      "nameVillage": "string",
+      "partyType": "RTO",
+      "textAddress": "string",
+      "textEmail": "string",
+      "textPhoneNumber": "string",
+      "nameProvince": "Copperbelt",
+      "textGender": "M"
+    },
+    "storageKwh": 0,
+    "villageName": "string",
+    "provinceName": "Copperbelt"
+  }
+]

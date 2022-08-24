@@ -1,0 +1,28 @@
+release/
+*.pyc
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+
+# virtual enviroment
+./env
+/env
+env/
+
+./venv
+/venv
+venv/
+
+/rds-combined-ca-bundle.pem
+rds-combined-ca-bundle.pem
+
+__pycache__/
+.pytest_cache/
+
+# swagger ui
+./swagger-ui-themes
+/swagger-ui-themes
+swagger-ui-themes/
